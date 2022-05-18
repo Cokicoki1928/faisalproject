@@ -9,7 +9,7 @@ apt-get install ffmpeg
 apt-get install wget
 apt-get install tesseract
 apt-get install nmap
-wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
+wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/Cokicoki1928/faisalproject.git/blob/master/ind.traineddata?raw=true"
 npm install
 
 echo "sh buset.sh"
